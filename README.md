@@ -1,7 +1,7 @@
-# SAVAGE SPAMMER
+#  - 𝗗𝗘𝗔𝗗𝗟𝗬 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 -
 
 <p align="center">
-  <img src="https://telegra.ph/file/a6ace69cac4c4443d6513.jpg">
+  <img src="https://telegra.ph/file/62bb6ed474f0cb497b0e5.jpg">
 </p>
 
 
@@ -16,34 +16,19 @@
 
 ----
 
-## 𝚂𝚃𝙰𝚃𝚄𝚂 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 
-<p align="left"><a href="https://github.com/sameerpanthi/deadly-spam-bot/network/members"><img src="https://img.shields.io/github/forks/sameerpanthi/deadly-spam-bot?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-spam-bot/stargazers"><img src="https://img.shields.io/github/stars/sameerpanthi/deadly-spam-bot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-spam-bot"></a><p align="left"><a href="https://github.com/sameerpanthi/deadly-spam-bot?"><img src="https://img.shields.io/github/last-commit/sameerpanthi/deadly-spam-bot?style=plastic"></
-
--------------------------------------------------
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/savage_spam_bots"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/savage_bot_updates"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Deadly_spam_bot"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Deadly_spambot"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝚂𝙰𝙼𝙴𝙴𝚁](https://t.me/OFFICIAL_SAMEER)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[Akki](https://t.me/Godfatherakki)
 
 -------------------------------------------------
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DEADLY-FIGHTERS/deploy-botfathrrrr)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Godfatherakkii/SAVAGE-BOTFATHER-SPAM)
 ------------------------------------------------
 
 
-
-𝚃𝙰𝙺𝙴 𝚂𝚃𝚁𝙸𝙽𝙶 𝙵𝚁𝙾𝙼 𝙷𝙴𝚁𝙴 - 
-
-[![REPL](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://replit.com/@sameerpanthi/DEADLY-FIGHTERS-BOT#main.py)
-    
--------------------------------------------------
-
-## credits 
-
-[OP RIZOEL BOT](https://github.com/MrRizoel/RiZoeLXSpam)
-AND [THE RIZOEL](t.me/TheRiZoeL)
