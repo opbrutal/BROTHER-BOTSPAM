@@ -23,7 +23,7 @@ for name in files:
         load_plugins(plugin_name.replace(".py", ""))
 
 print("🍌🍌 Deadly Spam Bot Successfully deployed 🍌🍌")
-print("Enjoy! Do visit @Deadly_Spam_bot")
+print("Enjoy! Do visit @Deadly_spam_bot")
 
 if __name__ == "__main__":
     SAM.run_until_disconnected()
