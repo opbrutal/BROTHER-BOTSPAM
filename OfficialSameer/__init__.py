@@ -1,5 +1,5 @@
 # SAMoeLXSpam - Spam Userbots
-# Copyright © 2021 @SAMoeLX
+# Copyright © 2021 @Godfatherakki
 
 import os
 import sys
