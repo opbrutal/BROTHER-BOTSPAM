@@ -1,4 +1,4 @@
-#SAMoeLXSpam By @TheSAMoeL
+#SAMoeLXSpam By @Godfatherakki
 
 import asyncio
 import sys
